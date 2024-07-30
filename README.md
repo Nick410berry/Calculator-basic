@@ -1,1 +1,1 @@
-This is a basic calculator program to showcase/practice if statements
+This is a basic calculator program to showcase/practice if statements in python
